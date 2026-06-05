@@ -2,3 +2,4 @@
 __pycache__/
 *.pyc
 assignment/main_final_backup.py
+.ipynb_checkpoints/
